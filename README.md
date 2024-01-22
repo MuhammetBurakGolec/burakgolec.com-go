@@ -1,5 +1,5 @@
 # Site
-burakgolec.com
+<a href="https://burakgolec.com/">burakgolec.com</a>
 
 # Purpose
 This is a simple website that I created to learn how to use HTML, CSS, JavaScript And Go. I also used this website to learn how to use Nginx.
@@ -19,4 +19,4 @@ This is a simple website that I created to learn how to use HTML, CSS, JavaScrip
 # !!! Attention !!!
 This website is not finished yet. I will add more features in the future.
 
-This website is not secure.
+This website is not secure. I will add SSL in the future.
